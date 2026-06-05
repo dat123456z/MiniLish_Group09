@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">MinLish</string>
+    <string name="welcome_back">Chào mừng trở lại</string>
+    <string name="hi_user">Chào %1$s! 👋</string>
+    <string name="streak_days">%1$s Ngày</string>
+    <string name="efficiency">Hiệu quả</string>
+    <string name="next_review">Ôn tập kế tiếp</string>
+    <string name="start_learning">Bắt đầu học</string>
+    <string name="decks_to_review">Bộ thẻ cần ôn</string>
+    <string name="view_all">Xem tất cả</string>
+    <string name="no_decks_dashboard">Chưa có bộ thẻ nào. Hãy tạo một bộ thẻ để bắt đầu học!</string>
+
+    <string name="edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="daily_reminders">Nhắc nhở hàng ngày</string>
+    <string name="import_export">Nhập / Xuất</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="sign_out">Đăng xuất</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="all_done">Hoàn thành!</string>
+    <string name="words_count">%1$d từ</string>
+    <string name="streak_days_label">Ngày liên tiếp</string>
+    <string name="words_learned_label">Từ đã học</string>
+    <string name="decks_active_label">Bộ thẻ đang học</string>
+
+    <string name="signin_to_streak">Đăng nhập để tiếp tục duy trì chuỗi học tập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="or_continue_with">hoặc tiếp tục với</string>
+    <string name="continue_with_google">Tiếp tục với Google</string>
+    <string name="dont_have_account">Chưa có tài khoản? </string>
+    <string name="signup">Đăng ký</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_decks">Bộ thẻ</string>
+    <string name="nav_analytics">Thống kê</string>
+    <string name="nav_profile">Hồ sơ</string>
+
+    <!-- Analytics -->
+    <string name="current_proficiency">Năng lực hiện tại</string>
+    <string name="proficiency_beginner">Mới bắt đầu</string>
+    <string name="proficiency_intermediate">Trung cấp</string>
+    <string name="proficiency_advanced">Cao cấp</string>
+    <string name="master_more_words">Học thêm nhiều từ để đạt cấp độ tiếp theo!</string>
+    <string name="todays_accuracy">Độ chính xác hôm nay</string>
+    <string name="accuracy_description">Số câu đúng trên tổng số thẻ đã học hôm nay.</string>
+    <string name="total_learned">Tổng số từ đã học</string>
+    <string name="mastered_words">Từ đã thành thạo</string>
+    <string name="retention_rate">Tỷ lệ ghi nhớ</string>
+    <string name="lifetime_accuracy">Độ chính xác trọn đời</string>
+    <string name="daily_activity">Hoạt động hàng ngày</string>
+    <string name="flashcard_reviews_per_day">Số thẻ ôn tập mỗi ngày</string>
+    <string name="reviews">Lượt ôn tập</string>
+
+    <!-- Deck List -->
+    <string name="all_decks">Tất cả bộ thẻ</string>
+    <string name="study">Học tập</string>
+    <string name="study_now">Học ngay</string>
+    <string name="maybe_later">Để sau</string>
+    <string name="words">Từ vựng</string>
+    <string name="review_deck">Ôn tập bộ thẻ</string>
+    <string name="manage_words">Quản lý từ vựng</string>
+    <string name="add_word">Thêm từ mới</string>
+    <string name="add_words">Thêm từ vựng</string>
+    <string name="delete_deck">Xóa bộ thẻ</string>
+    <string name="search_decks_placeholder">Tìm kiếm bộ thẻ của bạn&#8230;</string>
+    <string name="no_decks_yet">Chưa có bộ thẻ nào. Nhấn + để tạo mới!</string>
+    <string name="no_matching_decks">Không tìm thấy bộ thẻ nào phù hợp.</string>
+    <string name="no_decks_to_study">Chưa có bộ thẻ nào để học.\nHãy vào tab Bộ thẻ để tạo mới nhé.</string>
+    <string name="choose_deck_to_study">Chọn một bộ thẻ để học</string>
+    <string name="general_tag">Chung</string>
+
+    <!-- Deck Detail -->
+    <string name="deck_details">Chi tiết bộ thẻ</string>
+    <string name="delete_word">Xóa từ vựng</string>
+    <string name="confirm_delete_word">Bạn có chắc chắn muốn xóa \"%1$s\" không?</string>
+    <string name="no_words_yet">Chưa có từ vựng nào trong bộ thẻ này.</string>
+    <string name="cancel">Hủy bỏ</string>
+
+    <!-- Import / Export -->
+    <string name="manage_your_words">Quản lý từ vựng</string>
+    <string name="import_export_desc">Nhập từ vựng từ file CSV, hoặc xuất bộ thẻ để sao lưu.</string>
+    <string name="import_words">Nhập từ vựng</string>
+    <string name="import_words_desc">Thêm từ vựng từ file .csv vào bộ thẻ này.</string>
+    <string name="create_new_deck">Tạo bộ thẻ mới</string>
+    <string name="import_new_deck_desc">Từ vựng sẽ được đưa vào một bộ thẻ mới bạn đặt tên bên dưới</string>
+    <string name="import_current_deck_desc">Từ vựng sẽ được thêm vào bộ thẻ hiện tại</string>
+    <string name="deck_name_label">Tên bộ thẻ *</string>
+    <string name="description_optional">Mô tả (tùy chọn)</string>
+    <string name="choosing_file">Chọn tệp</string>
+    <string name="importing">Đang nhập&#8230;</string>
+    <string name="export_deck">Xuất bộ thẻ</string>
+    <string name="export_deck_desc">Lưu tất cả từ vựng trong bộ thẻ thành file .csv.</string>
+    <string name="deck_to_export">Bộ thẻ cần xuất</string>
+    <string name="select_a_deck">Chọn một bộ thẻ</string>
+    <string name="no_decks_available">Không có bộ thẻ nào</string>
+    <string name="export_csv_btn">Xuất .csv</string>
+    <string name="import_tip">Tệp của bạn nên có các cột: word, meaning, và tùy chọn pronunciation, example. Hàng đầu tiên được coi là tiêu đề.</string>
+    <string name="confirm_import_title">Tạo bộ thẻ &amp; nhập?</string>
+    <string name="confirm_import_text">Một bộ thẻ mới sẽ được tạo với các từ vựng từ tệp của bạn.</string>
+    <string name="create_import_btn">Tạo &amp; nhập</string>
+    <string name="made_by_group">MinLish · Thực hiện bởi Nhóm 09</string>
+
+    <!-- Register / Profile -->
+    <string name="create_your_account">Tạo tài khoản</string>
+    <string name="start_learning_smart">Bắt đầu học từ vựng một cách thông minh</string>
+    <string name="full_name_placeholder">Nguyễn Văn A</string>
+    <string name="learning_goal">Mục tiêu học tập</string>
+    <string name="goal_ielts">IELTS</string>
+    <string name="goal_toeic">TOEIC</string>
+    <string name="goal_business">Kinh doanh</string>
+    <string name="goal_travel">Du lịch</string>
+    <string name="current_level">Trình độ hiện tại</string>
+    <string name="create_account_btn">Tạo tài khoản</string>
+    <string name="already_have_account">Đã có tài khoản? </string>
+    <string name="level_label">Trình độ %1$s</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="email_address">Địa chỉ Email</string>
+    <string name="your_name">Tên của bạn</string>
+    <string name="your_email">Email của bạn</string>
+    <string name="save_changes">Lưu thay đổi</string>
+
+    <!-- Flashcard Session -->
+    <string name="daily_goal_reached">Đã đạt mục tiêu hàng ngày! 🎯</string>
+    <string name="daily_goal_reached_desc">Bạn đã hoàn thành số từ mục tiêu cho hôm nay. Bạn có muốn tiếp tục không?</string>
+    <string name="keep_going">Tiếp tục</string>
+    <string name="stop">Dừng lại</string>
+    <string name="daily_review_sm2">Ôn tập hằng ngày (SM2)</string>
+    <string name="study_session">Phiên học tập</string>
+    <string name="quiz_mode">Chế độ trắc nghiệm</string>
+    <string name="session_progress">Tiến độ phiên học</string>
+    <string name="tap_to_reveal">Chạm vào thẻ để xem nghĩa</string>
+    <string name="next_word">Từ tiếp theo</string>
+    <string name="meaning_label">Ý NGHĨA</string>
+    <string name="example_label">VÍ DỤ</string>
+    <string name="view_full_details">Xem chi tiết đầy đủ</string>
+    <string name="how_well_remembered">Bạn nhớ từ này ở mức nào?</string>
+    <string name="rating_again">Lặp lại</string>
+    <string name="rating_hard">Khó</string>
+    <string name="rating_good">Tốt</string>
+    <string name="rating_easy">Dễ</string>
+    <string name="session_complete">Hoàn thành phiên học!</string>
+    <string name="reviewed_words_count">Bạn đã ôn tập %1$d từ trong phiên học này.</string>
+    <string name="stat_correct">ĐÚNG</string>
+    <string name="stat_needs_again">CẦN ÔN LẠI</string>
+    <string name="stat_reviewed">ĐÃ ÔN</string>
+    <string name="stat_streak">CHUỖI</string>
+    <string name="stat_days_fire">ngày 🔥</string>
+    <string name="review_again_words">Ôn lại %1$d từ \'Lặp lại\'</string>
+    <string name="back_to_deck">Quay lại bộ thẻ</string>
+    <string name="no_cards_in_deck">Chưa có thẻ trong bộ này</string>
+    <string name="add_some_words_desc">Hãy thêm từ vựng hoặc bắt đầu lại phiên học.</string>
+    <string name="study_again">Học lại</string>
+
+    <!-- Delete Deck Dialog -->
+    <string name="delete_deck_confirm_title">Xóa bộ thẻ</string>
+    <string name="delete_deck_confirm_desc">Thao tác này sẽ xóa vĩnh viễn bộ thẻ và tất cả các từ trong đó. Hành động này không thể hoàn tác.</string>
+
+    <!-- Add Word -->
+    <string name="add_new_word">Thêm từ mới</string>
+    <string name="edit_word">Chỉnh sửa từ</string>
+    <string name="word_label">Từ vựng *</string>
+    <string name="pronunciation_label">Phiên âm</string>
+    <string name="meaning_label_star">Ý nghĩa *</string>
+    <string name="definition_label">Định nghĩa</string>
+    <string name="example_sentence_label">Câu ví dụ</string>
+    <string name="advanced_fields">Trường nâng cao</string>
+    <string name="advanced_fields_desc">Kết hợp từ · Liên quan · Ghi chú</string>
+    <string name="collocation_label">Kết hợp từ</string>
+    <string name="related_words_label">Từ liên quan</string>
+    <string name="note_label">Ghi chú</string>
+    <string name="save_word">Lưu từ</string>
+    <string name="save_and_add_another">Lưu &amp; Thêm từ khác</string>
+    <string name="word_saved_snackbar">Đã lưu từ! Hãy thêm từ khác.</string>
+
+    <!-- Create Deck -->
+    <string name="new_deck_title">Bộ thẻ mới</string>
+    <string name="cover_label">Ảnh bìa</string>
+    <string name="tap_to_choose_cover">Chạm để chọn màu &amp; chữ cái</string>
+    <string name="deck_name_placeholder">VD: Academic IELTS Vol. 2</string>
+    <string name="description_placeholder">Các từ học thuật tần suất cao cho IELTS Writing Task 2.</string>
+    <string name="tags_label">Thẻ</string>
+    <string name="add_tag">Thêm</string>
+    <string name="daily_learning_plan">Kế hoạch học tập hàng ngày</string>
+    <string name="new_words_per_day">Từ mới / ngày</string>
+    <string name="rev_words_per_day">Ôn tập / ngày</string>
+    <string name="create_deck_btn">Tạo bộ thẻ</string>
+
+    <!-- Reset Success -->
+    <string name="password_reset_title">Đặt lại mật khẩu</string>
+    <string name="password_reset_desc">Bây giờ bạn có thể đăng nhập bằng mật khẩu mới.\nChào mừng bạn trở lại MinLish.</string>
+    <string name="continue_to_signin">Tiếp tục đăng nhập</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Quên mật khẩu?</string>
+    <string name="forgot_password_desc">Đừng lo lắng — hãy nhập email gắn với tài khoản\ncủa bạn và chúng tôi sẽ gửi mã đặt lại.</string>
+    <string name="send_reset_code">Gửi mã đặt lại</string>
+    <string name="code_expires_in">Mã sẽ hết hạn trong </string>
+    <string name="ten_minutes">10 phút</string>
+    <string name="spam_folder_check">. Kiểm tra thư rác nếu bạn không nhận được.</string>
+    <string name="remembered_it">Đã nhớ mật khẩu? </string>
+    <string name="back_to_signin">Quay lại đăng nhập</string>
+    <string name="no_account_found">Không tìm thấy tài khoản với email này</string>
+    <string name="enter_email_error">Vui lòng nhập email của bạn</string>
+    <string name="invalid_email_error">Email không hợp lệ</string>
+    <string name="reset_code_subject">MinLish: Mã Đặt Lại Mật Khẩu</string>
+    <string name="reset_code_body">Mã xác minh của bạn là: %1$s. Mã này sẽ hết hạn sau 10 phút.</string>
+
+    <!-- Verify Code -->
+    <string name="check_your_email">Kiểm tra email của bạn</string>
+    <string name="sent_code_subtitle">Chúng tôi đã gửi mã xác minh 6 chữ số đến\n</string>
+    <string name="didnt_get_code">Không nhận được mã? </string>
+    <string name="resend">Gửi lại</string>
+    <string name="resend_in">Gửi lại sau </string>
+    <string name="verify_code_btn">Xác minh mã</string>
+    <string name="wrong_email">Sai email? </string>
+    <string name="change_it">Thay đổi</string>
+
+    <!-- New Password -->
+    <string name="set_new_password">Đặt mật khẩu mới</string>
+    <string name="pick_strong_password">Chọn một mật khẩu mạnh mà bạn chưa từng sử dụng trước đây.</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="strength_label">Độ mạnh: </string>
+    <string name="strength_weak">Yếu</string>
+    <string name="strength_fair">Trung bình</string>
+    <string name="strength_good">Tốt</string>
+    <string name="strength_strong">Mạnh</string>
+    <string name="rule_8_chars">8+ ký tự</string>
+    <string name="rule_one_number">Có chữ số</string>
+    <string name="rule_one_symbol">Có ký tự đặc biệt</string>
+    <string name="rule_mixed_case">Chữ hoa &amp; chữ thường</string>
+    <string name="reset_password_btn">Đặt lại mật khẩu</string>
+
+
+    <!-- Daily Reminder -->
+    <string name="daily_study_reminder_title">Đã đến lúc học từ mới! 📚</string>
+    <string name="daily_study_reminder_body">Hãy tiếp tục duy trì thói quen bằng cách ôn tập bộ thẻ \"%1$s\" ngay nhé.</string>
+    <string name="sm2_due_reminder_title">Đến hạn ôn tập! 🧠</string>
+    <string name="sm2_due_reminder_body_multiple">Bạn có %1$d từ cần ôn tập trong %2$d bộ thẻ. Hãy dành ít phút để ôn tập ngay nhé!</string>
+    <string name="sm2_due_reminder_body_single">Bộ thẻ \"%1$s\" đang có %2$d từ cần được ôn tập ngay.</string>
+    <string name="no_due_words_title">Tiếp tục học tập! 📚</string>
+    <string name="no_due_words_body">Hôm nay chưa có từ nào đến hạn, bạn có thể học thêm từ mới</string>
+    <string name="start_journey_title">Bắt đầu hành trình! 🚀</string>
+    <string name="start_journey_body">Hãy tạo bộ thẻ đầu tiên để bắt đầu chinh phục tiếng Anh nhé.</string>
+    <string name="email_reminder_subject">MinLish: Nhắc nhở học tập hàng ngày</string>
+    <string name="email_reminder_body">Chào %1$s! Đã đến lúc thực hiện phiên học từ vựng hàng ngày của bạn. Hãy duy trì chuỗi học tập nhé!</string>
+
+    <string name="automation_settings">Cài đặt tự động</string>
+    <string name="smart_automation">Tự động thông minh</string>
+    <string name="automation_desc">Hệ thống tự động xử lý tất cả thông báo và cảnh báo email.</string>
+    <string name="app_notifications">Thông báo ứng dụng</string>
+    <string name="active_device">Đang hoạt động trên thiết bị này</string>
+    <string name="disabled">Đã tắt</string>
+    <string name="automated_email">Email tự động</string>
+    <string name="sync_account">Đồng bộ với tài khoản</string>
+    <string name="email_reminder_time">Giờ nhắc nhở email</string>
+    <string name="change">Thay đổi</string>
+    <string name="update_automation">Cập nhật tự động</string>
+    <string name="automation_sync_toast">Đã đồng bộ hóa tự động!</string>
+    <string name="reminder_time">Giờ nhắc nhở</string>
+</resources>

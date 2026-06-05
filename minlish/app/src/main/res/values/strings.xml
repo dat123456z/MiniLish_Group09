@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">MinLish</string>
+    <string name="default_web_client_id">966935376202-aphka2hvdm1oov2ij1al7hl62ommokhm.apps.googleusercontent.com</string>
+
+    <string name="welcome_back">Welcome back</string>
+    <string name="hi_user">Hi, %1$s! 👋</string>
+    <string name="streak_days">%1$s Days</string>
+    <string name="efficiency">Efficiency</string>
+    <string name="next_review">Next Review</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="decks_to_review">Decks to Review</string>
+    <string name="view_all">View All</string>
+    <string name="no_decks_dashboard">No decks available. Create one to start learning!</string>
+
+    <string name="edit_profile">Edit profile</string>
+    <string name="daily_reminders">Daily reminders</string>
+    <string name="import_export">Import / Export</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="language">Language</string>
+    <string name="all_done">All done!</string>
+    <string name="words_count">%1$d words</string>
+    <string name="streak_days_label">Streak days</string>
+    <string name="words_learned_label">Words learned</string>
+    <string name="decks_active_label">Decks active</string>
+
+    <string name="signin_to_streak">Sign in to keep your streak going</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="signup">Sign up</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_decks">Decks</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Analytics -->
+    <string name="current_proficiency">Current Proficiency</string>
+    <string name="proficiency_beginner">Beginner</string>
+    <string name="proficiency_intermediate">Intermediate</string>
+    <string name="proficiency_advanced">Advanced</string>
+    <string name="master_more_words">Master more words to reach the next level!</string>
+    <string name="todays_accuracy">Today\'s Accuracy</string>
+    <string name="accuracy_description">Correct answers out of total cards studied today.</string>
+    <string name="total_learned">Total Learned</string>
+    <string name="mastered_words">Mastered words</string>
+    <string name="retention_rate">Retention Rate</string>
+    <string name="lifetime_accuracy">Lifetime accuracy</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="flashcard_reviews_per_day">Flashcard reviews per day</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- Deck List -->
+    <string name="all_decks">All Decks</string>
+    <string name="study">Study</string>
+    <string name="study_now">Study now</string>
+    <string name="maybe_later">Maybe later</string>
+    <string name="words">Words</string>
+    <string name="review_deck">Review deck</string>
+    <string name="manage_words">Manage words</string>
+    <string name="add_word">Add word</string>
+    <string name="add_words">Add words</string>
+    <string name="delete_deck">Delete deck</string>
+    <string name="search_decks_placeholder">Search your decks&#8230;</string>
+    <string name="no_decks_yet">No decks yet. Tap + to create one!</string>
+    <string name="no_matching_decks">No matching decks found.</string>
+    <string name="no_decks_to_study">No decks to study yet.\nGo to the Decks tab to create one.</string>
+    <string name="choose_deck_to_study">Choose a deck to study</string>
+    <string name="general_tag">General</string>
+
+    <!-- Deck Detail -->
+    <string name="deck_details">Deck Details</string>
+    <string name="delete_word">Delete word</string>
+    <string name="confirm_delete_word">Are you sure you want to delete \"%1$s\"?</string>
+    <string name="no_words_yet">No words in this deck yet.</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Import / Export -->
+    <string name="manage_your_words">Manage your words</string>
+    <string name="import_export_desc">Import words from a CSV file, or export a deck to back it up.</string>
+    <string name="import_words">Import words</string>
+    <string name="import_words_desc">Add words from a .csv file into this deck.</string>
+    <string name="create_new_deck">Create a new deck</string>
+    <string name="import_new_deck_desc">Words will go into a new deck you name below</string>
+    <string name="import_current_deck_desc">Words will be added to the current deck</string>
+    <string name="deck_name_label">Deck name *</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="choosing_file">Choose file</string>
+    <string name="importing">Importing&#8230;</string>
+    <string name="export_deck">Export deck</string>
+    <string name="export_deck_desc">Save all words in a deck as a .csv file.</string>
+    <string name="deck_to_export">Deck to export</string>
+    <string name="select_a_deck">Select a deck</string>
+    <string name="no_decks_available">No decks available</string>
+    <string name="export_csv_btn">Export .csv</string>
+    <string name="import_tip">Your file should have columns: word, meaning, and optionally pronunciation, example. The first row is treated as a header.</string>
+    <string name="confirm_import_title">Create deck &amp; import?</string>
+    <string name="confirm_import_text">A new deck will be created with the words from your file.</string>
+    <string name="create_import_btn">Create &amp; import</string>
+    <string name="made_by_group">MinLish · Made with Group 09</string>
+
+    <!-- Register / Profile -->
+    <string name="create_your_account">Create your account</string>
+    <string name="start_learning_smart">Start learning vocabulary the smart way</string>
+    <string name="full_name_placeholder">Alex Nguyen</string>
+    <string name="learning_goal">Learning goal</string>
+    <string name="goal_ielts">IELTS</string>
+    <string name="goal_toeic">TOEIC</string>
+    <string name="goal_business">Business</string>
+    <string name="goal_travel">Travel</string>
+    <string name="current_level">Current level</string>
+    <string name="create_account_btn">Create account</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="level_label">Level %1$s</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="your_name">Your name</string>
+    <string name="your_email">Your email</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Flashcard Session -->
+    <string name="daily_goal_reached">Daily goal reached! 🎯</string>
+    <string name="daily_goal_reached_desc">You have completed your target words for today. Do you want to keep going?</string>
+    <string name="keep_going">Keep going</string>
+    <string name="stop">Stop</string>
+    <string name="daily_review_sm2">Daily Review (SM2)</string>
+    <string name="study_session">Study Session</string>
+    <string name="quiz_mode">Quiz Mode</string>
+    <string name="session_progress">Session Progress</string>
+    <string name="tap_to_reveal">Tap the card to reveal the meaning</string>
+    <string name="next_word">Next Word</string>
+    <string name="meaning_label">MEANING</string>
+    <string name="example_label">EXAMPLE</string>
+    <string name="view_full_details">View full details</string>
+    <string name="how_well_remembered">How well did you remember it?</string>
+    <string name="rating_again">Again</string>
+    <string name="rating_hard">Hard</string>
+    <string name="rating_good">Good</string>
+    <string name="rating_easy">Easy</string>
+    <string name="session_complete">Session complete!</string>
+    <string name="reviewed_words_count">You reviewed %1$d words in this session.</string>
+    <string name="stat_correct">CORRECT</string>
+    <string name="stat_needs_again">NEEDS AGAIN</string>
+    <string name="stat_reviewed">REVIEWED</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_days_fire">days 🔥</string>
+    <string name="review_again_words">Review %1$d \'Again\' words</string>
+    <string name="back_to_deck">Back to deck</string>
+    <string name="no_cards_in_deck">No cards in this deck</string>
+    <string name="add_some_words_desc">Add some words first or restart your session.</string>
+    <string name="study_again">Study again</string>
+
+    <!-- Delete Deck Dialog -->
+    <string name="delete_deck_confirm_title">Delete deck</string>
+    <string name="delete_deck_confirm_desc">This will permanently delete the deck and all its words. This action cannot be undone.</string>
+
+    <!-- Add Word -->
+    <string name="add_new_word">Add New Word</string>
+    <string name="edit_word">Edit Word</string>
+    <string name="word_label">Word *</string>
+    <string name="pronunciation_label">Pronunciation</string>
+    <string name="meaning_label_star">Meaning *</string>
+    <string name="definition_label">Definition</string>
+    <string name="example_sentence_label">Example Sentence</string>
+    <string name="advanced_fields">Advanced fields</string>
+    <string name="advanced_fields_desc">Collocation · Related · Note</string>
+    <string name="collocation_label">Collocation</string>
+    <string name="related_words_label">Related Words</string>
+    <string name="note_label">Note</string>
+    <string name="save_word">Save Word</string>
+    <string name="save_and_add_another">Save &amp; Add Another</string>
+    <string name="word_saved_snackbar">Word saved! Add another.</string>
+
+    <!-- Create Deck -->
+    <string name="new_deck_title">New Deck</string>
+    <string name="cover_label">Cover</string>
+    <string name="tap_to_choose_cover">Tap to choose color &amp; letter</string>
+    <string name="deck_name_placeholder">e.g. Academic IELTS Vol. 2</string>
+    <string name="description_placeholder">High-frequency academic words for IELTS Writing Task 2.</string>
+    <string name="tags_label">Tags</string>
+    <string name="add_tag">Add</string>
+    <string name="daily_learning_plan">Daily learning plan</string>
+    <string name="new_words_per_day">New words / day</string>
+    <string name="rev_words_per_day">Rev words / day</string>
+    <string name="create_deck_btn">Create deck</string>
+
+    <!-- Reset Success -->
+    <string name="password_reset_title">Password reset</string>
+    <string name="password_reset_desc">You can now sign in with your new\npassword. Welcome back to MinLish.</string>
+    <string name="continue_to_signin">Continue to sign in</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Forgot password?</string>
+    <string name="forgot_password_desc">No worries — enter the email tied to your\naccount and we\'ll send a reset code.</string>
+    <string name="send_reset_code">Send reset code</string>
+    <string name="code_expires_in">The code expires in </string>
+    <string name="ten_minutes">10 minutes</string>
+    <string name="spam_folder_check">. Check your spam folder if it doesn\'t arrive.</string>
+    <string name="remembered_it">Remembered it? </string>
+    <string name="back_to_signin">Back to sign in</string>
+    <string name="no_account_found">No account found with this email</string>
+    <string name="enter_email_error">Please enter your email</string>
+    <string name="invalid_email_error">Invalid email format</string>
+    <string name="reset_code_subject">MinLish: Password Reset Code</string>
+    <string name="reset_code_body">Your verification code is: %1$s. This code will expire in 10 minutes.</string>
+
+    <!-- Verify Code -->
+    <string name="check_your_email">Check your email</string>
+    <string name="sent_code_subtitle">We sent a 6-digit code to\n</string>
+    <string name="didnt_get_code">Didn\'t get a code? </string>
+    <string name="resend">Resend</string>
+    <string name="resend_in">Resend in </string>
+    <string name="verify_code_btn">Verify code</string>
+    <string name="wrong_email">Wrong email? </string>
+    <string name="change_it">Change it</string>
+
+    <!-- New Password -->
+    <string name="set_new_password">Set new password</string>
+    <string name="pick_strong_password">Pick a strong one you haven\'t used before.</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="strength_label">Strength: </string>
+    <string name="strength_weak">Weak</string>
+    <string name="strength_fair">Fair</string>
+    <string name="strength_good">Good</string>
+    <string name="strength_strong">Strong</string>
+    <string name="rule_8_chars">8+ characters</string>
+    <string name="rule_one_number">One number</string>
+    <string name="rule_one_symbol">One symbol</string>
+    <string name="rule_mixed_case">Mixed case</string>
+    <string name="reset_password_btn">Reset password</string>
+
+
+    <!-- Daily Reminder -->
+    <string name="daily_study_reminder_title">Daily study reminder! 📚</string>
+    <string name="daily_study_reminder_body">Time to review your vocabulary in deck \"%1$s\".</string>
+    <string name="sm2_due_reminder_title">SM2 Review Due! 🧠</string>
+    <string name="sm2_due_reminder_body_multiple">You have %1$d words due in %2$d decks. Review now!</string>
+    <string name="sm2_due_reminder_body_single">Deck \"%1$s\" has %2$d words due for review.</string>
+    <string name="no_due_words_title">Keep learning! 📚</string>
+    <string name="no_due_words_body">No words due today, but you can learn something new!</string>
+    <string name="start_journey_title">Start your journey! 🚀</string>
+    <string name="start_journey_body">Create your first deck to start conquering English.</string>
+    <string name="email_reminder_subject">MinLish: Daily Study Reminder</string>
+    <string name="email_reminder_body">Hi %1$s! It\'s time for your scheduled daily vocabulary session. Keep your streak alive!</string>
+
+    <string name="automation_settings">Automation Settings</string>
+    <string name="smart_automation">Smart Automation</string>
+    <string name="automation_desc">System automatically handles all notifications and email alerts.</string>
+    <string name="app_notifications">App Notifications</string>
+    <string name="active_device">Active on this device</string>
+    <string name="disabled">Disabled</string>
+    <string name="automated_email">Automated Email</string>
+    <string name="sync_account">Sync with account</string>
+    <string name="email_reminder_time">Email reminder time</string>
+    <string name="change">Change</string>
+    <string name="update_automation">Update Automation</string>
+    <string name="automation_sync_toast">Automation synchronized!</string>
+    <string name="reminder_time">Reminder time</string>
+</resources>
